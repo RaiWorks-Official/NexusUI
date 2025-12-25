@@ -64,16 +64,10 @@ Whether you're creating a simple admin panel or a complex game hub, Nexus UI pro
 
 ## 📦 Installation
 
-### Method 1: Direct Load (Recommended)
+### Method 1: Load (Recommended)
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RaiWorks-Official/NexusUI/refs/heads/main/Loader.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RaiWorks-Official/NexusUI/refs/heads/main/Init.lua"))()
 ```
-
-### Method 2: Manual Installation
-1. Download `Loader.lua` from the repository
-2. Place it in your Roblox game
-3. Require the ModuleScript in your code
-
 ---
 
 ## 📘 Documentation
